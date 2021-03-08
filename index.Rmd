@@ -1,0 +1,35 @@
+---
+title: "Jessica Diallo"
+image: "jessica3.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/jessicadiallo/"
+  - label: Twitter
+    url: "https://twitter.com/jess_diallo"
+  - label: GitHub
+    url: "https://github.com/jessdiallo"
+  - label: Email
+    url: "mailto:jodiallo@uw.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Jessica Diallo is currently a graduate student at the University of Washington's School of Aquatic and Fishery Sciences. She 
+
+## Education
+
+**University of Washington** | Seattle, WA
+
+M.S. in Aquatic and Fishery Sciences | September 2020 - Present
+
+**University of Wisconsin - Madison** | Madison, WI
+
+B.S. Biology | September 2009 - May 2013
+B.S. Environmental Studies | September 2009 - May 2013
+
+## Experience
+
+**Smithsonian Environmental Research Center** | Research Intern | June 2013 - September 2013
+
