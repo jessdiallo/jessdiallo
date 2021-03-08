@@ -2,8 +2,6 @@
 title: "Jessica Diallo"
 image: "jessica3.png"
 links:
-  - label: LinkedIn
-    url: "https://www.linkedin.com/in/jessicadiallo/"
   - label: Twitter
     url: "https://twitter.com/jess_diallo"
   - label: GitHub
@@ -27,6 +25,7 @@ M.S. in Aquatic and Fishery Sciences | September 2020 - Present
 **University of Wisconsin - Madison** | Madison, WI
 
 B.S. Biology | September 2009 - May 2013
+
 B.S. Environmental Studies | September 2009 - May 2013
 
 ## Experience
