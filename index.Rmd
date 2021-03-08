@@ -2,6 +2,7 @@
 title: "Jessica Diallo"
 image: "jessica3.png"
 links:
+  
   - label: Twitter
     url: "https://twitter.com/jess_diallo"
   - label: GitHub
